@@ -12,7 +12,7 @@
     "author": "ACSONE SA/NV,Akretion,Noviat,Odoo Community Association (OCA)",
     "maintainers": ["alexis-via", "luc-demeyer"],
     "website": "https://github.com/OCA/intrastat-extrastat",
-    "depends": ["base_vat", "account"],
+    "depends": ["account"],
     "excludes": ["account_intrastat"],
     "data": [
         "views/product_template.xml",
